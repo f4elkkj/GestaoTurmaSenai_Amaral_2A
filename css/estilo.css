@@ -8,12 +8,12 @@
  } */
 
 @font-face {
-     font-family: Mario;
-     src: url(fonts/retro_mario/RetroMario-Regular.otf)
+     font-family: Mickey;
+     src: url(fonts/MickeyMouse_PERSONAL_USE_ONLY.otf);
  }
 
 body{
      color: var(--platinum);
-     font-family: Mario; 
+     font-family: Mickey; 
      background-color: var(--midnight-violet);
  }
